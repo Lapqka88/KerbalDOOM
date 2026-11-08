@@ -1,0 +1,9 @@
+build/
+dist/
+local/
+*.wad
+*.WAD
+*.pdb
+*.user
+.env
+.env.*
